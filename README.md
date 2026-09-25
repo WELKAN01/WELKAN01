@@ -23,4 +23,3 @@ También he trabajado en proyectos de comercio electrónico, hoteles, clínicas,
 
 - [GitHub](https://github.com/WELK02)
 - [LinkedIn](https://linkedin.com/in/andy-daniel-leon-curo)
-- [Correo](mailto:andy_leon_16@hotmail.com)
