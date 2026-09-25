@@ -1,4 +1,4 @@
-# ¡Hola! 👋 Soy Andy Daniel León Curo
+# ¡Hola! 👋 Soy Andy Daniel Leon Curo
 
 Desarrollador backend enfocado en la construcción de APIs, microservicios y soluciones basadas en eventos. Trabajo principalmente con **Java, Spring Boot, Kafka, Docker y NestJS**, y me interesa crear sistemas escalables, mantenibles y orientados a resolver problemas reales.
 
